@@ -1,0 +1,14 @@
+a=int(input("enter no")
+b=int(input("enter no")
+c=1/2(a*b)
+print(c)
+
+c=int(input("enter no."))
+s=a+b+c
+print(s)
+n=s-a
+m=s-b
+u=s-c
+r=(n*m*u)
+area_of_triangle=sqrt(r)
+print(area_of_triangle)
